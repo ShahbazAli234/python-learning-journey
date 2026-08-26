@@ -13,6 +13,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 | Session | Topics Covered | Link |
 |---------|----------------|------|
 | Session 1 | Python Output, Data Types, Variables, Comments, Keywords & Identifiers, User Input, Type Conversion, Literals, Operators | [View](./session-01-basics/task1.ipynb) |
+| Session 2 | If-else, Modules, Loops, Nested Loops, Loop Control Statements | [View](./session-02-control-flow/task2.ipynb) |
 
 ## 🛠️ Tools & Technologies
 
@@ -22,6 +23,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 ## 🚀 Progress
 
 - ✅ Session 1: Python Basics
+- ✅ Session 2: Control Flow 
 - ⏳ More sessions coming soon...
 
 ---
