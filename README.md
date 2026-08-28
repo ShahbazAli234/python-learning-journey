@@ -15,6 +15,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 | Session 1 | Python Output, Data Types, Variables, Comments, Keywords & Identifiers, User Input, Type Conversion, Literals, Operators | [View](./session-01-basics/task1.ipynb) |
 | Session 2 | If-else, Modules, Loops, Nested Loops, Loop Control Statements | [View](./session-02-control-flow/task2.ipynb) |
 | Session 3 | Strings in Python — Manipulation, Slicing, Symmetry Check, Word Reversal, Common/Uncommon Words | [View](./session-03-strings/task3.ipynb) |
+| Session 4 | Lists in Python — List Operations, Nested Lists, List Comprehensions, Matrix Operations | [View](./session-04-lists/task4.ipynb) |
 
 ## 🛠️ Tools & Technologies
 
@@ -26,6 +27,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 - ✅ Session 1: Python Basics
 - ✅ Session 2: Control Flow
 - ✅ Session 3: Strings
+- ✅ Session 4: Lists
 - ⏳ More sessions coming soon...
 
 ---
