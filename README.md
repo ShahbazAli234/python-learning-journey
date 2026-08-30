@@ -16,6 +16,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 | Session 2 | If-else, Modules, Loops, Nested Loops, Loop Control Statements | [View](./session-02-control-flow/task2.ipynb) |
 | Session 3 | Strings in Python — Manipulation, Slicing, Symmetry Check, Word Reversal, Common/Uncommon Words | [View](./session-03-strings/task3.ipynb) |
 | Session 4 | Lists in Python — List Operations, Nested Lists, List Comprehensions, Matrix Operations | [View](./session-04-lists/task4.ipynb) |
+| Session 5 | Tuples, Sets, Dictionaries | [View](./session-05-tuples-sets-dicts/task5.ipynb) |
 
 ## 🛠️ Tools & Technologies
 
@@ -28,6 +29,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 - ✅ Session 2: Control Flow
 - ✅ Session 3: Strings
 - ✅ Session 4: Lists
+- ✅ Session 5: Tuples, Sets & Dictionaries
 - ⏳ More sessions coming soon...
 
 ---
