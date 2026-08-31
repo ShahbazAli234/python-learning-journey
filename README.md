@@ -17,6 +17,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 | Session 3 | Strings in Python — Manipulation, Slicing, Symmetry Check, Word Reversal, Common/Uncommon Words | [View](./session-03-strings/task3.ipynb) |
 | Session 4 | Lists in Python — List Operations, Nested Lists, List Comprehensions, Matrix Operations | [View](./session-04-lists/task4.ipynb) |
 | Session 5 | Tuples, Sets, Dictionaries | [View](./session-05-tuples-sets-dicts/task5.ipynb) |
+| Session 6 | Functions, Lambda, map(), filter(), reduce() | [View](./session-06-functions-lambda/task6.ipynb) |
 
 ## 🛠️ Tools & Technologies
 
@@ -30,6 +31,8 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 - ✅ Session 3: Strings
 - ✅ Session 4: Lists
 - ✅ Session 5: Tuples, Sets & Dictionaries
+- ✅ Session 6: Functions & Lambda
+- 
 - ⏳ More sessions coming soon...
 
 ---
