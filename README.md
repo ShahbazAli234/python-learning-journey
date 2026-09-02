@@ -19,6 +19,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 | Session 5 | Tuples, Sets, Dictionaries | [View](./session-05-tuples-sets-dicts/task5.ipynb) |
 | Session 6 | Functions, Lambda, map(), filter(), reduce() | [View](./session-06-functions-lambda/task6.ipynb) |
 | Session 7 | Object-Oriented Programming (OOP) — Classes, Constructors, Methods, Encapsulation | [View](./session-07-oop-basics/task7.ipynb) |
+| Session 8 | OOP Part 2 — Class Methods, Encapsulation, Real-world Class Design | [View](./session-08-oop-part2/task8.ipynb) |
 
 ## 🛠️ Tools & Technologies
 
@@ -34,6 +35,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 - ✅ Session 5: Tuples, Sets & Dictionaries
 - ✅ Session 6: Functions & Lambda
 - ✅ Session 7: OOP Fundamentals
+- ✅ Session 8: OOP Part 2
 - ⏳ More sessions coming soon...
 
 ---
