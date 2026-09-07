@@ -23,6 +23,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 | Session 9 | Inheritance, Composition, Abstract Classes, Dunder Methods | [View](./session-09-oop-inheritance/task9.ipynb) |
 | Session 10 | File Handling, Serialization (pickle) | [View](./session-10-file-handling/task10.ipynb) |
 | Session 11 | Exception Handling, Custom Exceptions | [View](./session-11-exception-handling/task11.ipynb) |
+| Session 12 | Namespaces, Iterators, Generators, Decorators | [View](./session-12-generators-decorators-iterators/task12.ipynb) |
 
 ## 🛠️ Tools & Technologies
 
@@ -42,6 +43,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 - ✅ Session 9: Inheritance & Abstraction
 - ✅ Session 10: File Handling
 - ✅ Session 11: Exception Handling
+- ✅ Session 12: Iterators, Generators & Decorators
 - ⏳ More sessions coming soon...
 
 ---
