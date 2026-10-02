@@ -24,6 +24,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 | Session 10 | File Handling, Serialization (pickle) | [View](./session-10-file-handling/task10.ipynb) |
 | Session 11 | Exception Handling, Custom Exceptions | [View](./session-11-exception-handling/task11.ipynb) |
 | Session 12 | Namespaces, Iterators, Generators, Decorators | [View](./session-12-generators-decorators-iterators/task12.ipynb) |
+| Recursion Tasks | Recursion — Edit Distance, Run-Length Encoding, Decimal to Binary | [View](./recursion-tasks/task.ipynb) |
 
 ## 🛠️ Tools & Technologies
 
