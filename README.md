@@ -45,6 +45,7 @@ This repo is updated regularly as I progress through my Python and AI Engineerin
 - ✅ Session 10: File Handling
 - ✅ Session 11: Exception Handling
 - ✅ Session 12: Iterators, Generators & Decorators
+- ✅ Recursion Task
 - ⏳ More sessions coming soon...
 
 ---
